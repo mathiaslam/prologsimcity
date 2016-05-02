@@ -1,0 +1,44 @@
+[{
+    "type": "road",
+    "posX": "0",
+    "posY": "0",
+    "size": "1"
+}, {
+    "type": "road",
+    "posX": "2",
+    "posY": "3",
+    "size": "1"
+}, {
+    "type": "tree",
+    "posX": "3",
+    "posY": "2",
+    "size": "1"
+}, {
+    "type": "tree",
+    "posX": "6",
+    "posY": "17",
+    "size": "1"
+}, {
+    "type": "tree",
+    "posX": "12",
+    "posY": "17",
+    "size": "1"
+}
+, {
+    "type": "river",
+    "posX": "19",
+    "posY": "12",
+    "size": "1"
+}
+, {
+    "type": "river",
+    "posX": "12",
+    "posY": "52",
+    "size": "1"
+}
+, {
+    "type": "river",
+    "posX": "12",
+    "posY": "32",
+    "size": "1"
+}]

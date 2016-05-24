@@ -1,0 +1,23 @@
+[
+  {
+    "type": "residential_area",
+    "posX": "0",
+    "posY": "0",
+    "width": "20",
+    "height": "6"
+  },
+  {
+    "type": "industrial_area",
+    "posX": "21",
+    "posY": "0",
+    "width": "4",
+    "height": "6"
+  },
+  {
+    "type": "commercial_area",
+    "posX": "26",
+    "posY": "0",
+    "width": "10",
+    "height": "6"
+  }
+]

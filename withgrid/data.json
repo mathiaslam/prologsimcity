@@ -1,0 +1,28 @@
+[{
+    "type": "road",
+    "posX": "0",
+    "posY": "0",
+    "size": "1"
+}, {
+    "type": "road",
+    "posX": "1",
+    "posY": "0",
+    "size": "1"
+}, {
+    "type": "tree",
+    "posX": "3",
+    "posY": "1",
+    "size": "1"
+}, {
+    "type": "tree",
+    "posX": "3",
+    "posY": "0",
+    "size": "1"
+}
+, {
+    "type": "river",
+    "posX": "1",
+    "posY": "1",
+    "size": "2"
+}
+]
